@@ -24,7 +24,6 @@ requirements:
     - python
   run:
     - aiodns >=1.0
-    - aiohttp
     - libidn11  # [not win]
     - pyasn1
     - pyasn1-modules
